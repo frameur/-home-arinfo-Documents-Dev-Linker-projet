@@ -10,7 +10,7 @@ h1
     .banniere{
         width: 100%;
         height: 500px;
-        background-image: url(./images/Plan\ de\ travail\ 1.png);
+        background-image: url(/images/Plan\ de\ travail\ 1.png);
         background-repeat: no-repeat;
         background-size: contain;
     }
